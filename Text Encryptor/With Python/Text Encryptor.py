@@ -37,7 +37,6 @@ def Code_Create():
         Code_Create()
     
 def Mix(metin):
-    swaps=[]
     global ciphertext
     Code_Create()
     charactersi_Mix()
@@ -50,7 +49,6 @@ def Mix(metin):
     random.seed(int(code))
     for i in range(len(ciphertext)):
         index = random.randint(0, len(ciphertext) - 1)
-        swaps.append((i, index))
         ciphertext_list[i], ciphertext_list[index] = ciphertext_list[index], ciphertext_list[i]
     ciphertext="".join(ciphertext_list)
     
