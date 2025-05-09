@@ -1,0 +1,14 @@
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\bin\Debug\Text Encryptor.exe.config
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\bin\Debug\Text Encryptor.exe
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\bin\Debug\Text Encryptor.pdb
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.csproj.AssemblyReference.cache
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text_Encryptor.Properties.Resources.resources
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.csproj.GenerateResource.cache
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.exe
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.pdb
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text_Encryptor.Form1.resources
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\bin\Debug\Text Encryptor.exe.manifest
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\bin\Debug\Text Encryptor.application
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.exe.manifest
+C:\Users\Mehmet Uygun\source\repos\Text Encryptor\Text Encryptor\obj\Debug\Text Encryptor.application
